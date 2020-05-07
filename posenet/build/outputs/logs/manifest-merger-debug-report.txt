@@ -8,7 +8,7 @@ INJECTED from /Users/medlali/Desktop/pose_estimation/posenet/src/main/AndroidMan
 INJECTED from /Users/medlali/Desktop/pose_estimation/posenet/src/main/AndroidManifest.xml:1:1-6:12
 INJECTED from /Users/medlali/Desktop/pose_estimation/posenet/src/main/AndroidManifest.xml:1:1-6:12
 	package
-		ADDED from /Users/medlali/Desktop/pose_estimation/posenet/src/main/AndroidManifest.xml:2:3-53
+		ADDED from /Users/medlali/Desktop/pose_estimation/posenet/src/main/AndroidManifest.xml:2:3-44
 		INJECTED from /Users/medlali/Desktop/pose_estimation/posenet/src/main/AndroidManifest.xml
 		INJECTED from /Users/medlali/Desktop/pose_estimation/posenet/src/main/AndroidManifest.xml
 	android:versionName
