@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [:posenet] /Users/medlali/Desktop/pose_estimation/posenet/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/e62a192823463aabcc7c3b23a686ffbf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/24c0250943450d7ff64e13ae85d7799c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ee0cf39d9e4e8018ec05f1e432a07a26/AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/d73ba7168810f1c9c1221ea0d07ee8e7/AndroidManifest.xml:2:1-10:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ab0efe4ec55a4ec12761c239ff90e2fd/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/469a190142fbdba90f274fd96a5e2315/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/aa3bab687c41d8ae69792287840a0a37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/e27e7821b3d10e539d0b6f241d9087ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/4e53e1ba9121a2412f607f8deafdbe7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/0204903e21d0c060e2a80001bdb0ef0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/4e6a5b57f7bc66d735048084a9cce501/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/05ad96ee183bd51f261f612ccfd10892/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/96ee53f6d8ebd4b45855c4da4f47cc31/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/8fa7238d08f5b219db2779aef73cde5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a85a7546dc2db7f1a3cef0444af39df6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/3c9204f84408a92c6a38dd5b4fae8662/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a812f5482eafafb5c7bc3f698e1b7dc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/48ca9af4b2fb2044b003353058bf44c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/0a1b09e824882ac6d9eb202429fa6009/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ed78c08d49ffd9f4ccc4de511c4661d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a4b08161e1ae56f5cf6db662921eed8b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a6e6e6d94b2c3ae14a0c79d192b44642/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/fb33112e26a99f5226f8779e91453144/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/861955a897c1215a116ac9e9576991ce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/1e6564ad5480fcd19eebc045fffc5d87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/0a565cba87a784153bae96fc68488c94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/7d5b1b84a9e26a092f3a4666a8cb7e75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/178a208008094ed9f71f02c2b81a905a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/4093e917159d01591e21671293b423df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/6f530d602e37ae8111268ae6ccbfbe3a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/8a11d345edad04827feb5a321c5882ae/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/239b390253ddf6a521c8934f4716c383/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/d2bb7053ad0e6d2e42aa137c05869975/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:5:3-63
+	android:name
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:5:20-60
+uses-feature#android.hardware.camera
+ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:7:3-58
+	android:name
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:7:17-55
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:8:3-68
+	android:name
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:8:17-65
+uses-sdk
+ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:10:3-15
+INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:10:3-15
+INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:10:3-15
+MERGED from [:posenet] /Users/medlali/Desktop/pose_estimation/posenet/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:posenet] /Users/medlali/Desktop/pose_estimation/posenet/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/e62a192823463aabcc7c3b23a686ffbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/e62a192823463aabcc7c3b23a686ffbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/24c0250943450d7ff64e13ae85d7799c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/24c0250943450d7ff64e13ae85d7799c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ee0cf39d9e4e8018ec05f1e432a07a26/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ee0cf39d9e4e8018ec05f1e432a07a26/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/d73ba7168810f1c9c1221ea0d07ee8e7/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/d73ba7168810f1c9c1221ea0d07ee8e7/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ab0efe4ec55a4ec12761c239ff90e2fd/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ab0efe4ec55a4ec12761c239ff90e2fd/AndroidManifest.xml:5:5-6:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/469a190142fbdba90f274fd96a5e2315/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/469a190142fbdba90f274fd96a5e2315/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/aa3bab687c41d8ae69792287840a0a37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/aa3bab687c41d8ae69792287840a0a37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/e27e7821b3d10e539d0b6f241d9087ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/e27e7821b3d10e539d0b6f241d9087ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/4e53e1ba9121a2412f607f8deafdbe7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/4e53e1ba9121a2412f607f8deafdbe7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/0204903e21d0c060e2a80001bdb0ef0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/0204903e21d0c060e2a80001bdb0ef0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/4e6a5b57f7bc66d735048084a9cce501/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/4e6a5b57f7bc66d735048084a9cce501/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/05ad96ee183bd51f261f612ccfd10892/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/05ad96ee183bd51f261f612ccfd10892/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/96ee53f6d8ebd4b45855c4da4f47cc31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/96ee53f6d8ebd4b45855c4da4f47cc31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/8fa7238d08f5b219db2779aef73cde5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/8fa7238d08f5b219db2779aef73cde5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a85a7546dc2db7f1a3cef0444af39df6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a85a7546dc2db7f1a3cef0444af39df6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/3c9204f84408a92c6a38dd5b4fae8662/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/3c9204f84408a92c6a38dd5b4fae8662/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a812f5482eafafb5c7bc3f698e1b7dc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a812f5482eafafb5c7bc3f698e1b7dc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/48ca9af4b2fb2044b003353058bf44c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/48ca9af4b2fb2044b003353058bf44c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/0a1b09e824882ac6d9eb202429fa6009/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/0a1b09e824882ac6d9eb202429fa6009/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ed78c08d49ffd9f4ccc4de511c4661d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ed78c08d49ffd9f4ccc4de511c4661d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a4b08161e1ae56f5cf6db662921eed8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a4b08161e1ae56f5cf6db662921eed8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a6e6e6d94b2c3ae14a0c79d192b44642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a6e6e6d94b2c3ae14a0c79d192b44642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/fb33112e26a99f5226f8779e91453144/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/fb33112e26a99f5226f8779e91453144/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/861955a897c1215a116ac9e9576991ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/861955a897c1215a116ac9e9576991ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/1e6564ad5480fcd19eebc045fffc5d87/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/1e6564ad5480fcd19eebc045fffc5d87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/0a565cba87a784153bae96fc68488c94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/0a565cba87a784153bae96fc68488c94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/7d5b1b84a9e26a092f3a4666a8cb7e75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/7d5b1b84a9e26a092f3a4666a8cb7e75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/178a208008094ed9f71f02c2b81a905a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/178a208008094ed9f71f02c2b81a905a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/4093e917159d01591e21671293b423df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/4093e917159d01591e21671293b423df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/6f530d602e37ae8111268ae6ccbfbe3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/6f530d602e37ae8111268ae6ccbfbe3a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/8a11d345edad04827feb5a321c5882ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/8a11d345edad04827feb5a321c5882ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/239b390253ddf6a521c8934f4716c383/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/239b390253ddf6a521c8934f4716c383/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/d2bb7053ad0e6d2e42aa137c05869975/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/medlali/.gradle/caches/transforms-2/files-2.1/d2bb7053ad0e6d2e42aa137c05869975/AndroidManifest.xml:20:5-44
+INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:10:3-15
+INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:10:3-15
+	android:targetSdkVersion
+		INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:10:3-15
+		INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:10:3-15
+		MERGED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:10:3-15
+		MERGED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:10:3-15
+		INJECTED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:12:3-33:17
+MERGED from [com.android.support:design:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/e62a192823463aabcc7c3b23a686ffbf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/e62a192823463aabcc7c3b23a686ffbf/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ee0cf39d9e4e8018ec05f1e432a07a26/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ee0cf39d9e4e8018ec05f1e432a07a26/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/d73ba7168810f1c9c1221ea0d07ee8e7/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/d73ba7168810f1c9c1221ea0d07ee8e7/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ab0efe4ec55a4ec12761c239ff90e2fd/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/ab0efe4ec55a4ec12761c239ff90e2fd/AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a4b08161e1ae56f5cf6db662921eed8b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a4b08161e1ae56f5cf6db662921eed8b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a6e6e6d94b2c3ae14a0c79d192b44642/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a6e6e6d94b2c3ae14a0c79d192b44642/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/medlali/.gradle/caches/transforms-2/files-2.1/a4b08161e1ae56f5cf6db662921eed8b/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:17:7-33
+	android:label
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:15:7-46
+	android:roundIcon
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:16:7-52
+	android:icon
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:13:7-33
+	android:theme
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:18:7-46
+activity#org.tensorflow.lite.examples.posenet.TestActivity
+ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:20:5-24:16
+	android:label
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:22:9-48
+	android:exported
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:23:9-32
+	android:name
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:21:9-37
+activity#org.tensorflow.lite.examples.posenet.CameraActivity
+ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:26:5-31:16
+	android:exported
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:26:46-69
+	android:name
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:26:15-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:27:7-30:23
+action#android.intent.action.MAIN
+ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:28:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:29:9-68
+	android:name
+		ADDED from /Users/medlali/Desktop/pose_estimation/app/src/main/AndroidManifest.xml:29:19-66
